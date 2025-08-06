@@ -7,6 +7,8 @@ https://github.com/opencca/opencca-releases/releases/tag/opencca/systex25
 
 
 ### Snapshot Releases
+Snapshot releases are built from time to time and published here from the corresponding branches.
+
 | Artifact | Branch (`opencca/main`) |
 |------------|------------------------------------|
 | linux      | [`latest`](https://github.com/opencca/opencca-releases/releases/tag/linux/snapshot/opencca/main/latest)                           |
